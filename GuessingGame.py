@@ -3,7 +3,7 @@ from random import *
 
 #Generates a random integer
 aRandomNumber = randint(1, 20)
-# For Testing: print(aRandomNumber)
+print(aRandomNumber)
 
 # Create a variable to store
 tries = 0
